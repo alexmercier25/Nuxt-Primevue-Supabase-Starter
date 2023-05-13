@@ -14,7 +14,7 @@ export default defineNuxtConfig({
     //   head: {
     //     script: [
     //       {
-    //         src: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDGI8ze4KYboK1qSivwSZI3m0xm_H1U6-U&libraries=places"
+    //         src: "https://maps.googleapis.com/maps/api/js"
     //       }
     //     ]
     //   }
